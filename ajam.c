@@ -1,4 +1,4 @@
 void main(){
-    printf("saya pundek");
+    printf("ajam pundek");
     printf("ape pon tak boleh");
 }
